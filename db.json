@@ -1,0 +1,53 @@
+{
+    "pensamentos": [
+      {
+        "id": 1,
+        "conteudo": "Trabalhar duro te levará para cima, aproveitar o caminho te levará mais longe.",
+        "autoria": "Desconhecida",
+        "modelo": "modelo3",
+        "favorito": true
+      },
+      {
+        "id": 2,
+        "conteudo": "Vencedores não são pessoas que nunca falham, são pessoas que nunca desistem.",
+        "autoria": "Desconhecida",
+        "modelo": "modelo2",
+        "favorito": true
+      },
+      {
+        "id": 3,
+        "conteudo": "Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.",
+        "autoria": "Desconhecida",
+        "modelo": "modelo1",
+        "favorito": true
+      },
+      {
+        "id": 4,
+        "conteudo": "kdmodm",
+        "autoria": "stk",
+        "modelo": "modelo2",
+        "favorito": false
+      },
+      {
+        "conteudo": "sdwd",
+        "autoria": "dwd",
+        "modelo": "modelo1",
+        "favorito": false,
+        "id": 5
+      },
+      {
+        "conteudo": "dad",
+        "autoria": "adsad",
+        "modelo": "modelo1",
+        "favorito": false,
+        "id": 6
+      },
+      {
+        "conteudo": "kdmodm",
+        "autoria": "dwde",
+        "modelo": "modelo1",
+        "favorito": false,
+        "id": 7
+      }
+    ]
+  }
